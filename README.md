@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFkc3QzZXN1MW9iNWJxMXdueHEwOTd1aHV4dzM5dmtoYmdhNjg2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
+  <img height="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFkc3QzZXN1MW9iNWJxMXdueHEwOTd1aHV4dzM5dmtoYmdhNjg2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/dev-nass/dev-nass/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/dev-nass/dev-nass/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
